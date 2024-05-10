@@ -6,3 +6,7 @@
 ### 리스트 테스트
 - 리스트1
 - 리스트2
+
+### 윈도우에서 Git 사용하기
+[git-scm](https://git-scm.com/book/ko/v2)
+
